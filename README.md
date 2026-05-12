@@ -1,3 +1,5 @@
+<img width="1200" height="300" alt="20250707-142531" src="https://github.com/user-attachments/assets/15176f97-a6f8-46cf-9ab7-de0d0265d791" />
+
 # KOLSprite — AI-Powered TikTok Creator Analytics Platform
 
 KOLSprite is an all-in-one TikTok analytics and creator discovery platform built for creators, brands, agencies, and eCommerce sellers.

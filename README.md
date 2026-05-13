@@ -48,8 +48,6 @@ https://chromewebstore.google.com/detail/tiktok-downloader-sort-an/penohjgblobin
 
 <img width="1140" height="800" alt="tool_video" src="https://github.com/user-attachments/assets/edc5fa72-2415-436e-8a28-261569218565" />
 
-<img width="2360" height="816" alt="tool_material" src="https://github.com/user-attachments/assets/1f76242a-9105-4b2f-95a7-5f297d68f4cc" />
-
 <img width="1140" height="800" alt="tool_language" src="https://github.com/user-attachments/assets/f97f0f9b-913e-4ad0-8af4-e1997e5fef1c" />
 
 <img width="1140" height="800" alt="tool_download" src="https://github.com/user-attachments/assets/6be360d7-ce9c-4b20-acc8-5f02f27b422b" />
